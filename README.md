@@ -28,8 +28,8 @@
 <a href='https://github.com/alexwebdev05/presentation'>Repositorio</a>
 
 ## Contacto
-![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
-<a>alexwebdev05@proton.me</a>
+Mail: 
+<a>alexwebdev05@gmail.com</a>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href='https://www.linkedin.com/in/%C3%A1lex-fr%C3%ADas-angulo-34b1b3271/'>Álex Frías</a>
