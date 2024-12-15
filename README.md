@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Álex</h1>
-<h3 align="center">Soy un web developer</h3>
+<h3 align="center">Soy front y back developer</h3>
 
 
 # Tecnologias
@@ -27,7 +27,7 @@
 
 ## Contacto
 Mail: 
-<a>alexwebdev05@proton.me</a>
+<a>alexwebdev05@gmail.com</a>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 <a href='https://www.linkedin.com/in/%C3%A1lex-fr%C3%ADas-angulo-34b1b3271/'>Álex Frías</a>
