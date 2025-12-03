@@ -11,8 +11,12 @@
 [![My Skills](https://skillicons.dev/icons?i=rust,java,terraform)](https://skillicons.dev)
 
 ## Mis proyectos principales
-
-<!-- <a href=''></a> -->
+<div>
+    <a href='https://github.com/alexwebdev05/MemoryCacheSystem'>MemoryCacheSystem: </a>
+    <p>Con este proyecto que estoy desarrollando esoy aprendiendo el funcionamiento global de rust.</p>
+    <a href='https://github.com/alexwebdev05/ITTaskManager'>ITTaskManager: </a>
+    <p>Este proyecto lo hice como proceso de aprendizaje de rust.</p>
+</div>
 
 ## Contacto
 
