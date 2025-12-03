@@ -4,42 +4,11 @@
 
 # Tecnologias que conozco
 
-<div>
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png">
-		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React" style="background-color: white; border-radius: 0.5rem; padding: 0.3rem;"/>
-	</picture>
-    <picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png">
-		<img width="58" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="Node.js" title="Node.js" style="background-color: rgba(0, 110, 173, 1); border-radius: 0.5rem;"/>
-	</picture>
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
-		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js" style="background-color: white; border-radius: 0.5rem; padding: 0.3rem;"/>
-	</picture>
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png">
-		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" alt="AWS" title="AWS" style="background-color: white; border-radius: 0.5rem; padding: 0.3rem;"/>
-	</picture>
-</div>
-
+[![My Skills](https://skillicons.dev/icons?i=react,typescript,nodejs,aws)](https://skillicons.dev)
 
 ## Tecnologias que estoy aprendiendo
 
-<div>
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png">
-		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust" style="background-color: white; border-radius: 0.5rem; padding: 0.3rem;"/>
-	</picture>
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
-		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java" style="background-color: white; border-radius: 0.5rem; padding: 0.3rem;"/>
-	</picture>
-	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png">
-		<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/terraform.png" alt="Terraform" title="Terraform" style="background-color: white; border-radius: 0.5rem; padding: 0.3rem;"/>
-	</picture>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=rust,java,terraform)](https://skillicons.dev)
 
 ## Mis proyectos principales
 
